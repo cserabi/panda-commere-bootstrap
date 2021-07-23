@@ -1,0 +1,44 @@
+.bg-custom-panda
+{
+  background-color: #FCEAE8;
+}
+
+
+.bg-watch
+
+{
+  background-image: linear-gradient(to bottom, #ff854d 0%, #ff5100 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.bg-bag
+{
+  background-image: linear-gradient(to bottom, #e4ff4d 0%, #ffe600 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bg-shoes
+{
+  background-image: linear-gradient(to bottom, #0199ff 0%, #1100ad 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.buy-now-btn
+{
+  background-image: linear-gradient(to bottom, #ff4d82 0%, #ff0055 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
